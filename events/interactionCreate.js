@@ -130,4 +130,3 @@ client.on("interactionCreate", async (interaction) => {
           content: `${success} Your vote has been counted`,
           ephemeral: true
       });
-});
